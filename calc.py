@@ -3,7 +3,7 @@ from tkinter import *
 from math import *
 root = Tk()
 root.resizable(0, 0)
-
+root.iconbitmap("calculator.ico")
 root.config(background="#ffffff")
 
 
